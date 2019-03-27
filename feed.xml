@@ -6,9 +6,20 @@
 </description>
     <link>http://barber.samesies.io</link>
     <atom:link href="http://barber.samesies.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Mar 2019 13:44:35 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Mar 2019 13:44:35 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Mar 2019 13:45:33 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Mar 2019 13:45:33 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Taproom</title>
+        <description>&lt;p&gt;Some text.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Mar 2019 17:00:00 +0000</pubDate>
+        <link>http://barber.samesies.io/2019/03/26/taproom/</link>
+        <guid isPermaLink="true">http://barber.samesies.io/2019/03/26/taproom/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Polaroid Williamsburg</title>
