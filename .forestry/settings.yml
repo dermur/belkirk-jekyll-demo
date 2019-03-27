@@ -45,6 +45,6 @@ build:
   preview_env:
   - JEKYLL_ENV=staging
   publish_env:
-  - JEKYLL_ENV=staging
+  - JEKYLL_ENV=production
   preview_output_directory: _site
   output_directory: _site
